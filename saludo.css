@@ -1,0 +1,31 @@
+
+h1{
+	font-family: verdana;
+	font-size:26px;
+	
+}
+
+label{
+	font-size:16px;
+	text-decoration:underline;
+	font-weight:bold;
+
+}
+
+.boton{
+	background-color:green;
+	color:white;
+	margin:10px;
+	font-size:16px;
+	border-color:black;
+	font-weight:bold;
+
+}
+.ingreso{
+
+	color:white;
+	font-weight:bold;
+	height:20px;
+	font-size:18px;
+	border:black solid 2px;
+}
